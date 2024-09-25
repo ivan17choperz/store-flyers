@@ -1,0 +1,1 @@
+import{_ as e,o,c as n,a as t}from"./index-XFNKFvLl.js";const c={},s=t("h4",null,"not foun page ",-1),a=[s];function _(r,d){return o(),n("div",null,a)}const f=e(c,[["render",_]]);export{f as default};
